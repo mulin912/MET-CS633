@@ -5,3 +5,5 @@ Assignment M2 A1
 	Make a Commit
 	Open a Pull Request
 	Merge Pull Request
+
+I have done creating a new Branch called : new-feature and made a Commit.
